@@ -1,0 +1,63 @@
+What is NLP = https://www.kaggle.com/sahib12/nlp-starter-for-beginners
+
+
+1.First Approach:-
+Unsupervised Approach without using selected_text column from training data for Twitter Text extraction competition present here= https://www.kaggle.com/sahib12/twitter-text-extraction?scriptVersionId=31704843
+
+2. Using Named Entity Recognition Technique:-
+Framing it as NER Problem present here = https://www.kaggle.com/sahib12/text-extraction-as-ner-problem?scriptVersionId=31881168
+
+Help for prerequisite to Understand NER
+
+1. https://github.com/sahibpreetsingh12/Kaggle-Notebooks/blob/master/chunking-pos-tagging-beginner-tutorial.ipynb
+
+Now What is NER = https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+
+Train Custom NER Models using Spacy = https://confusedcoders.com/data-science/deep-learning/how-to-create-custom-ner-in-spacy and https://towardsdatascience.com/custom-named-entity-recognition-using-spacy-7140ebbb3718
+
+Official Documentation Help:-
+1. https://spacy.io/usage/training#ner
+To go deep to understand what are pipelines in spacy and how they work
+1. https://spacy.io/usage/processing-pipelines/
+
+Some Error solver links that i used that time
+https://github.com/explosion/spaCy/issues/3940
+
+
+
+Prerequisite for Starting with Q/A approach:-
+Diffrence b/w all type of categorical representation = https://bit.ly/2WgdSt0
+
+3. Using as Q/A problem for understanding BERT:-
+1. https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
+(Awesome article)
+1.1 Expalination for RNN (Top) = https://medium.com/datadriveninvestor/recurrent-neural-network-rnn-52dd4f01b7e8
+1.2 If you are not clear about what is time step in rnn=https://www.quora.com/What-do-samples-features-time-steps-mean-in-LSTM
+2. Why RNN's Failed and theory of LSTM = https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+3. What is LSTM:-https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+*4 Maybe helpful = https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
+
+5. What is Bidirectional RNN = https://www.coursera.org/learn/nlp-sequence-models/lecture/fyXnn/bidirectional-rnn
+
+6. When to use Bidirectional RNN = https://www.quora.com/When-should-one-use-bidirectional-LSTM-as-opposed-to-normal-LSTM
+
+7. Sequence to sequence Models:-
+
+1. https://www.coursera.org/learn/nlp-sequence-models/lecture/HyEui/basic-models
+2. https://medium.com/analytics-vidhya/machine-translation-encoder-decoder-model-7e4867377161
+3. https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+8. Attention models:-
+8.1 Intuition = https://www.youtube.com/watch?v=SysgYptB198
+8.2 Working = https://www.youtube.com/watch?v=quoGRI-1l0A
+8.3 Animation of Attention Model(best visualisation) = https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+9.AttentionModel code:-
+1. Emdedding Layer = https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer
+2. Code for Attention Model = https://towardsdatascience.com/implementing-neural-machine-translation-with-attention-using-tensorflow-fc9c6f26155f
+
+10. Transformers = https://jalammar.github.io/illustrated-transformer/
+Before going ahead=https://medium.com/ai%C2%B3-theory-practice-business/what-is-pre-training-in-nlp-introducing-5-key-technologies-455c54933054
+10.1 BERT explaiantion=https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
+continuation (optional)=https://jalammar.github.io/illustrated-bert/10.2 Distillbert for beginners=https://www.kaggle.com/sahib12/distill-bert-for-beginners
